@@ -1,6 +1,6 @@
 ﻿#弹窗骨架封装
 boqii-modal主要是用来在移动端显示弹窗莫太框
-## 使用方法
+## 使用方法  npm install boqii-modal
 ```
 import 'boqii-modal'
 import AComponent from '@/component/AComponent'
